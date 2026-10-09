@@ -241,4 +241,4 @@ This repository serves as the official landing page for Photobooth. The software
 **Get the most recent version of Photobooth today!**
 
 ---
-**Last updated:** 2026-10-09 09:55:55 UTC
+**Last updated:** 2026-10-09 16:48:03 UTC
